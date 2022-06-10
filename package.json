@@ -1,0 +1,27 @@
+{
+  "name": "package.json",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.8.3",
+    "@speechly/react-client": "^2.0.1",
+    "@speechly/react-ui": "^2.6.2",
+    "chart.js": "^3.8.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^1.3.0",
+    "vite": "^2.9.9"
+  }
+}
